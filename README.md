@@ -1,4 +1,4 @@
-[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f99cb04a-9bec-4af9-b6fd-74056aa8c204/dfmjhu4-2acb26b5-b9be-4384-81dd-9da6e6cfe711.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y5OWNiMDRhLTliZWMtNGFmOS1iNmZkLTc0MDU2YWE4YzIwNFwvZGZtamh1NC0yYWNiMjZiNS1iOWJlLTQzODQtODFkZC05ZGE2ZTZjZmU3MTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JzTaeQFx-cIQ3WZ4QkXmdT1isMOC7HLd-xPMadQ2XiM)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Anith Joy</h1>
 <h3 align="center">A passionate developer from India</h3>
 
