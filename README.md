@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/clips/pbs-science-human-footprint-shane-campbell-staton-cLLVsGPA6Vky1AZ2Rd)](https://rishavchanda.io)
+[![MasterHead](https://gifdb.com/images/high/animated-moving-sharingan-t4o0nis1oyfvrxdd.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Anith Joy</h1>
 <h3 align="center">A passionate developer from India</h3>
 
